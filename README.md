@@ -1,0 +1,2 @@
+# assis
+Assistente IA Jurídico
